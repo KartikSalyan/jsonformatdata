@@ -1,0 +1,17 @@
+
+{
+ "id": "1",
+ "role": "data_engineer",
+ "grade": "5",
+ "employee":
+  {
+   "employee":
+    [
+     { "id": "1001", "name": "mani" ,"salary": "100100"},
+     { "id": "1002", "name": "rahul","salary": "100100" },
+     { "id": "1003", "name": "shubh","salary": "300100" },
+     { "id": "1004", "name": "chintu","salary": "200100" }
+    ]
+  }
+ 
+}
